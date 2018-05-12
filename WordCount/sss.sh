@@ -1,3 +1,0 @@
-pwd
-pwd > shit.txt
-
